@@ -1,0 +1,6 @@
+experiment_id,packets_sent,packets_received,total_datagrams_received,packets_lost,packet_loss_percent,bytes_received,application_throughput_mbps,sender_duration_seconds
+low_1mbps,1222,1222,1222,0,0.0,1251328,1.001,10.004
+medium_5mbps,6105,6085,6085,20,0.328,6231040,4.984,10.002
+high_10mbps,12208,12208,12208,0,0.0,12500992,10.0,10.0
+veryhigh_20mbps,24414,24404,24404,10,0.041,24989696,19.991,10.001
+saturation_50mbps,61036,60444,60444,592,0.97,61894656,49.514,10.0

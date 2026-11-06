@@ -1,0 +1,6 @@
+experiment_id,target_rate_mbps,packet_size_bytes,duration_seconds,packets_sent,bytes_sent,sender_throughput_mbps
+low_1mbps,1.0,1024,10.004,1222,1251328,1.001
+medium_5mbps,5.0,1024,10.002,6105,6251520,5.0
+high_10mbps,10.0,1024,10.0,12208,12500992,10.0
+veryhigh_20mbps,20.0,1024,10.001,24414,24999936,19.999
+saturation_50mbps,50.0,1024,10.0,61036,62500864,49.999
